@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MuktharAmiyan!
+# 🧑‍💻 Hi, I'm MuktharAmiyan!
 
 ## About Me
 I'm a recent graduate with a passion for mobile development. I'm eager to learn and grow as a developer, and I'm excited to apply my skills to real-world projects.
